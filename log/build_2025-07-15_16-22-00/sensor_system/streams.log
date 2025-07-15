@@ -1,0 +1,25 @@
+[0.638s] Invoking command in '/home/vboxuser/test/src/sensor_system': PYTHONPATH=/home/vboxuser/test/build/sensor_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/test/install/sensor_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_system build --build-base /home/vboxuser/test/build/sensor_system/build install --record /home/vboxuser/test/build/sensor_system/install.log --single-version-externally-managed install_data
+[0.910s] running egg_info
+[0.911s] writing ../../build/sensor_system/sensor_system.egg-info/PKG-INFO
+[0.911s] writing dependency_links to ../../build/sensor_system/sensor_system.egg-info/dependency_links.txt
+[0.912s] writing entry points to ../../build/sensor_system/sensor_system.egg-info/entry_points.txt
+[0.912s] writing requirements to ../../build/sensor_system/sensor_system.egg-info/requires.txt
+[0.912s] writing top-level names to ../../build/sensor_system/sensor_system.egg-info/top_level.txt
+[0.914s] reading manifest file '../../build/sensor_system/sensor_system.egg-info/SOURCES.txt'
+[0.916s] writing manifest file '../../build/sensor_system/sensor_system.egg-info/SOURCES.txt'
+[0.916s] running build
+[0.916s] running build_py
+[0.916s] copying sensor_system/control_node.py -> /home/vboxuser/test/build/sensor_system/build/lib/sensor_system
+[0.917s] running install
+[0.917s] running install_lib
+[0.918s] copying /home/vboxuser/test/build/sensor_system/build/lib/sensor_system/control_node.py -> /home/vboxuser/test/install/sensor_system/lib/python3.10/site-packages/sensor_system
+[0.919s] byte-compiling /home/vboxuser/test/install/sensor_system/lib/python3.10/site-packages/sensor_system/control_node.py to control_node.cpython-310.pyc
+[0.919s] running install_data
+[0.919s] running install_egg_info
+[0.921s] removing '/home/vboxuser/test/install/sensor_system/lib/python3.10/site-packages/sensor_system-0.0.0-py3.10.egg-info' (and everything under it)
+[0.921s] Copying ../../build/sensor_system/sensor_system.egg-info to /home/vboxuser/test/install/sensor_system/lib/python3.10/site-packages/sensor_system-0.0.0-py3.10.egg-info
+[0.923s] running install_scripts
+[0.946s] Installing listener script to /home/vboxuser/test/install/sensor_system/lib/sensor_system
+[0.946s] Installing talker script to /home/vboxuser/test/install/sensor_system/lib/sensor_system
+[0.947s] writing list of installed files to '/home/vboxuser/test/build/sensor_system/install.log'
+[0.978s] Invoked command in '/home/vboxuser/test/src/sensor_system' returned '0': PYTHONPATH=/home/vboxuser/test/build/sensor_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/test/install/sensor_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_system build --build-base /home/vboxuser/test/build/sensor_system/build install --record /home/vboxuser/test/build/sensor_system/install.log --single-version-externally-managed install_data

@@ -1,0 +1,4 @@
+[console_scripts]
+control_node = sensor_system.control_node:main
+sensor_node = sensor_system.sensor_node:main
+

@@ -1,0 +1,34 @@
+[0.718s] Invoking command in '/home/vboxuser/proj_ros2/prj_ros2_td/src/sensor_system': PYTHONPATH=/home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_system build --build-base /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/build install --record /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/install.log --single-version-externally-managed install_data
+[1.001s] running egg_info
+[1.003s] writing ../../build/sensor_system/sensor_system.egg-info/PKG-INFO
+[1.003s] writing dependency_links to ../../build/sensor_system/sensor_system.egg-info/dependency_links.txt
+[1.003s] writing entry points to ../../build/sensor_system/sensor_system.egg-info/entry_points.txt
+[1.004s] writing requirements to ../../build/sensor_system/sensor_system.egg-info/requires.txt
+[1.004s] writing top-level names to ../../build/sensor_system/sensor_system.egg-info/top_level.txt
+[1.006s] reading manifest file '../../build/sensor_system/sensor_system.egg-info/SOURCES.txt'
+[1.008s] writing manifest file '../../build/sensor_system/sensor_system.egg-info/SOURCES.txt'
+[1.008s] running build
+[1.008s] running build_py
+[1.008s] copying sensor_system/sensor_node.py -> /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/build/lib/sensor_system
+[1.009s] copying sensor_system/control_node.py -> /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/build/lib/sensor_system
+[1.009s] copying sensor_system/__init__.py -> /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/build/lib/sensor_system
+[1.010s] running install
+[1.010s] running install_lib
+[1.011s] copying /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/build/lib/sensor_system/sensor_node.py -> /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages/sensor_system
+[1.011s] copying /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/build/lib/sensor_system/control_node.py -> /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages/sensor_system
+[1.011s] copying /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/build/lib/sensor_system/__init__.py -> /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages/sensor_system
+[1.012s] byte-compiling /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages/sensor_system/sensor_node.py to sensor_node.cpython-310.pyc
+[1.013s] byte-compiling /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages/sensor_system/control_node.py to control_node.cpython-310.pyc
+[1.014s] byte-compiling /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages/sensor_system/__init__.py to __init__.cpython-310.pyc
+[1.014s] running install_data
+[1.014s] copying resource/sensor_system -> /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/share/ament_index/resource_index/packages
+[1.014s] copying package.xml -> /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/share/sensor_system
+[1.015s] copying launch/sensor_system.launch.py -> /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/share/sensor_system/launch
+[1.017s] running install_egg_info
+[1.019s] removing '/home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages/sensor_system-0.0.0-py3.10.egg-info' (and everything under it)
+[1.019s] Copying ../../build/sensor_system/sensor_system.egg-info to /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages/sensor_system-0.0.0-py3.10.egg-info
+[1.020s] running install_scripts
+[1.045s] Installing control_node script to /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/sensor_system
+[1.045s] Installing sensor_node script to /home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/sensor_system
+[1.045s] writing list of installed files to '/home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/install.log'
+[1.073s] Invoked command in '/home/vboxuser/proj_ros2/prj_ros2_td/src/sensor_system' returned '0': PYTHONPATH=/home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vboxuser/proj_ros2/prj_ros2_td/install/sensor_system/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sensor_system build --build-base /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/build install --record /home/vboxuser/proj_ros2/prj_ros2_td/build/sensor_system/install.log --single-version-externally-managed install_data
